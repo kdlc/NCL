@@ -1,3 +1,4 @@
+#python script to generate a password list using the episodes of LAW & ORDER: Special Victims Units
 from bs4 import BeautifulSoup
 import requests
 #location of the data
